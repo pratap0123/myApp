@@ -3,6 +3,7 @@ public class Demo{
 String name;
 int id;
 long sal;
+int count;
 String address;
 Date date;
 }
