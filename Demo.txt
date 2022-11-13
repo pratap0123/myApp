@@ -4,4 +4,5 @@ String name;
 int id;
 long sal;
 String address;
+Date date;
 }
